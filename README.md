@@ -265,7 +265,7 @@ At Risk → Win-back discounts + free shipping
 
 ---
 
-## 🚧 Challenges Overcome
+## Challenges Overcome During Project
 
 ### Challenge 1: Handling Missing Data Strategically
 **Problem**: Random missing values in discount_percent, shipping_cost, customer_segment
